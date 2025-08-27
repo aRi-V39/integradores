@@ -13,6 +13,10 @@ public class Curso {
         return docente;
     }
 
+    public void Vacio getNada(){
+        printf("Hola");
+    }
+
     public Estudiante[] getEstudiantes() {
         return estudiantes;
     }
